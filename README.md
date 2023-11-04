@@ -1,4 +1,5 @@
-### Hi there 👋
+# BIGBOSS-dedsec
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BIGBOSS-dedsec&show_icons=true&theme=dark&count_private=true)
 
 <!--
 **BIGBOSS-dedsec/BIGBOSS-dedsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
